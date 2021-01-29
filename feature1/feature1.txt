@@ -1,2 +1,2 @@
 This is feature1
-This was added fromo feature branch
+Added this line from master
